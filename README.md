@@ -132,5 +132,5 @@ The analysis demonstrates that borrower segmentation using clustering can uncove
 ---
 
 ## Author
-Salini Sankarankutty Menon
-MSc Banking & Finance, King’s College London
+Salini Menon
+

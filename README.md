@@ -107,6 +107,8 @@ Cluster-wise loan performance:
 - Correlation heatmap
 - Pairplots
 - Elbow curve
+- Cluster profile heatmap
+- Loan status distribution within clusters
 
 ---
 
